@@ -1,42 +1,6 @@
-# dependency directories
+.idea/
+.vscode/
 node_modules/
-
-# typescript build output
-dist/
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# runtime data
-pids
-*.pid
-*.seed
-*.log
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# misc
-.DS_Store
-.env
-.env.test
-.cache
-.next
-
-# Debug log from npm
-npm-debug.log*
-
-# dotenv environment variables file
-.env
-.env.*.local
-
-# jest coverage
-/coverage
+build/
+tmp/
+temp/
